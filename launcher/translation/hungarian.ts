@@ -11,7 +11,7 @@
     <message>
         <location filename="../aboutProject/aboutproject_moc.ui" line="29"/>
         <source>Have a question? Found a bug? Want to help? Join us!</source>
-        <translation>Van kérdésed? Találtál hibát? Szeretnél segíteni? Csatlakozz hozzánk!</translation>
+        <translation type="unfinished">Van kérdésed? Hibát találtál? Szeretnél segíteni? Csatlakozz hozzánk!</translation>
     </message>
     <message>
         <location filename="../aboutProject/aboutproject_moc.ui" line="36"/>
@@ -168,7 +168,7 @@
     <message>
         <location filename="../modManager/cmodlistview_moc.ui" line="335"/>
         <source> %p% (%v KB out of %m KB)</source>
-        <translation>%p% (%v KB / %m KB)</translation>
+        <translation type="unfinished"> %p% (%v KB / %m KB)</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.ui" line="108"/>
@@ -292,22 +292,22 @@
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="387"/>
         <source>This is a submod and it cannot be installed or uninstalled separately from its parent mod</source>
-        <translation>Ez egy almodul, amely nem telepíthető vagy eltávolítható külön az alapmodultól</translation>
+        <translation type="unfinished">Ez egy almod, amely nem telepíthető vagy eltávolítható külön az azt tartalmazó modtól</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="406"/>
         <source>Notes</source>
-        <translation>Jegyzetek</translation>
+        <translation type="unfinished">Megjegyzések</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="655"/>
         <source>Downloading %1. %p% (%v MB out of %m MB) finished</source>
-        <translation>Letöltés %1. %p% (%v MB / %m MB) befejeződött</translation>
+        <translation type="unfinished">Letöltés: %1. %p% (%v MB / %m MB) befejeződött</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="680"/>
         <source>Download failed</source>
-        <translation>Letöltési hiba</translation>
+        <translation type="unfinished">Letöltés sikertelen</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="681"/>
@@ -327,9 +327,9 @@ Talált hibák:
         <source>
 
 Install successfully downloaded?</source>
-        <translation>
+        <translation type="unfinished">
 
-Sikeresen letöltött telepítés?</translation>
+Telepíted a sikeresen letöltötteket?</translation>
     </message>
     <message>
         <location filename="../modManager/cmodlistview_moc.cpp" line="810"/>
@@ -385,7 +385,7 @@ Sikeresen letöltött telepítés?</translation>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1061"/>
         <source>Interface Scaling</source>
-        <translation>Felület nagyítása</translation>
+        <translation type="unfinished">Kezelőfelület skálázása</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="604"/>
@@ -415,12 +415,12 @@ Sikeresen letöltött telepítés?</translation>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="666"/>
         <source>Autocombat AI in battles</source>
-        <translation>Autocsata AI a csatákban</translation>
+        <translation type="unfinished">Automatikus harc AI-a</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1422"/>
         <source>Sticks Sensitivity</source>
-        <translation>Botkormány érzékenység</translation>
+        <translation type="unfinished">Analóg kar érzékenysége</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="908"/>
@@ -430,7 +430,7 @@ Sikeresen letöltött telepítés?</translation>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="274"/>
         <source>Haptic Feedback</source>
-        <translation>Tapintásos visszacsatolás</translation>
+        <translation type="unfinished">Haptikus visszajelzés</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="378"/>
@@ -487,22 +487,22 @@ Sikeresen letöltött telepítés?</translation>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="996"/>
         <source>Handle back as right mouse button</source>
-        <translation>Vissza gomb jobbgombként kezelése</translation>
+        <translation type="unfinished">Vissza gomb jobb egérgombként kezelése</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1102"/>
         <source>Cursor Scaling</source>
-        <translation>Kurzor nagyítás</translation>
+        <translation type="unfinished">Kurzor skálázása</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1131"/>
         <source>Scalable</source>
-        <translation>Nagyítható</translation>
+        <translation type="unfinished">Skálázható</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1167"/>
         <source>Miscellaneous</source>
-        <translation>Vegyes</translation>
+        <translation type="unfinished">Egyéb</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1205"/>
@@ -513,13 +513,13 @@ Windowed - the game will run inside a window that covers part of your screen.
 Borderless Windowed Mode - the game will run in a full-screen window, matching your screen&apos;s resolution.
 
 Fullscreen Exclusive Mode - the game will cover the entirety of your screen and will use selected resolution.</source>
-        <translation>Válasszon megjelenítési módot a játékhoz
+        <translation type="unfinished">Válassz megjelenítési módot a játékhoz
 
 Ablakos - a játék egy ablakban fut, amely csak a képernyő egy részét foglalja el.
 
 Keret nélküli teljes képernyő - a játék teljes képernyős ablakban fut, amely megegyezik a képernyő felbontásával.
 
-Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az Ön által kiválasztott felbontást használja.</translation>
+Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az általad kiválasztott felbontást használja.</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1326"/>
@@ -539,7 +539,7 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1462"/>
         <source>Basic</source>
-        <translation>Alapértelmezett</translation>
+        <translation type="unfinished">Alap</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="656"/>
@@ -614,22 +614,22 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="873"/>
         <source>Controller Click Tolerance</source>
-        <translation>Vezérlő kattintási tűréshatár</translation>
+        <translation type="unfinished">Járékvezérlő kattintási tűrése</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="281"/>
         <source>Touch Tap Tolerance</source>
-        <translation>Érintés érintési tűréshatár</translation>
+        <translation type="unfinished">Érintőképernyő érintésének tűrése</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="337"/>
         <source>Input - Controller</source>
-        <translation>Bemenet - Vezérlő</translation>
+        <translation type="unfinished">Bemenet - Játékezérlő</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="267"/>
         <source>Sound Volume</source>
-        <translation>Hang hangereje</translation>
+        <translation type="unfinished">Hanghatások hangereje</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1218"/>
@@ -649,12 +649,12 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1026"/>
         <source>Autosave limit (0 = off)</source>
-        <translation>Automatikus mentési korlát (0 = kikapcsolva)</translation>
+        <translation type="unfinished">Automatikus mentés korlátozása (0 = kikapcsolva)</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="484"/>
         <source>Downscaling Filter</source>
-        <translation>Leméretezési szűrő</translation>
+        <translation type="unfinished">Leskálázási szűrő</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="781"/>
@@ -664,22 +664,22 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1436"/>
         <source>Autosave prefix</source>
-        <translation>Automatikus mentés előtag</translation>
+        <translation type="unfinished">Automatikus mentések előtagja</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="989"/>
         <source>Mouse Click Tolerance</source>
-        <translation>Egérkattintási tűréshatár</translation>
+        <translation type="unfinished">Egér kattintásának tűrése</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="933"/>
         <source>Sticks Acceleration</source>
-        <translation>Botkormány gyorsítás</translation>
+        <translation type="unfinished">Analóg kar gyorsítása</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1377"/>
         <source>empty = map name prefix</source>
-        <translation>üres = térképnév előtag</translation>
+        <translation type="unfinished">üres = térkép neve előtagként</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="590"/>
@@ -729,7 +729,7 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="852"/>
         <source>VCMI Language</source>
-        <translation>VCMI nyelv</translation>
+        <translation type="unfinished">VCMI nyelv</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="1443"/>
@@ -744,7 +744,7 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="764"/>
         <source>VSync</source>
-        <translation>VSync</translation>
+        <translation type="unfinished">Függőleges szinkronizáció (VSync)</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="649"/>
@@ -764,7 +764,7 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../settingsView/csettingsview_moc.ui" line="526"/>
         <source>Show intro</source>
-        <translation>Bemutató megjelenítése</translation>
+        <translation type="unfinished">Bevezető videó mutatása</translation>
     </message>
     <message>
         <location filename="../settingsView/csettingsview_moc.cpp" line="537"/>
@@ -802,7 +802,7 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../modManager/chroniclesextractor.cpp" line="61"/>
         <source>You have to select a Heroes Chronicles installer file!</source>
-        <translation>Ki kell választania egy Heroes Chronicles telepítőfájlt!</translation>
+        <translation type="unfinished">Ki kell választanod egy Heroes Chronicles telepítőfájlt!</translation>
     </message>
     <message>
         <location filename="../modManager/chroniclesextractor.cpp" line="76"/>
@@ -850,17 +850,17 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="78"/>
         <source>Mods Preset</source>
-        <translation>Mod előre beállítás</translation>
+        <translation type="unfinished">Mod előbeállítás</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="126"/>
         <source>Select your language</source>
-        <translation>Válassza ki a nyelvét</translation>
+        <translation type="unfinished">Válaszd ki a nyelved</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="169"/>
         <source>Have a question? Found a bug? Want to help? Join us!</source>
-        <translation>Van kérdésed? Találtál hibát? Szeretnél segíteni? Csatlakozz hozzánk!</translation>
+        <translation type="unfinished">Kérdésed van? Hibát találtál? Szeretnél segíteni? Csatlakozz hozzánk!</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="248"/>
@@ -870,7 +870,7 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="297"/>
         <source>Use offline installer from gog.com</source>
-        <translation>Használja a gog.com offline telepítőjét</translation>
+        <translation type="unfinished">gog.com offline telepítő használata</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="329"/>
@@ -880,17 +880,17 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="488"/>
         <source>Your Heroes III data files have been successfully found.</source>
-        <translation>A Heroes III adatai sikeresen megtalálva.</translation>
+        <translation type="unfinished">A Heroes III adataid sikeresen megtalálva.</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="742"/>
         <source>Interface Improvements</source>
-        <translation>Felület fejlesztések</translation>
+        <translation type="unfinished">Kezelőfelület fejlesztések</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="622"/>
         <source>Install a translation of Heroes III in your preferred language</source>
-        <translation>Telepítse a Heroes III fordítását a választott nyelvére</translation>
+        <translation type="unfinished">A kiválasztott nyelvednek megfelelő Heroes III fordítás telepítése</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="388"/>
@@ -900,32 +900,32 @@ Exkluzív teljes képernyő - a játék teljes képernyős módban fut, és az �
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="417"/>
         <source>If you already have Heroes III files on your device, you can select this directory and VCMI will copy the existing data automatically.</source>
-        <translation>Ha már rendelkezik Heroes III fájlokkal, válassza ki ezt a könyvtárat, és a VCMI automatikusan másolja az adatokat.</translation>
+        <translation type="unfinished">Ha a Heroes III fájlok már megtalálhatók az eszközödön, kiválaszthatod a mappáját, és a VCMI automatikusan átmásolja a meglévő adatokat.</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="459"/>
         <source>Copy existing files</source>
-        <translation>Létező fájlok másolása</translation>
+        <translation type="unfinished">Meglévő fájlok másolása</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="689"/>
         <source>Optionally, you can install additional mods either now, or at any point later, using the VCMI Launcher</source>
-        <translation>Opcionálisan telepíthet további modokat most, vagy bármikor később, a VCMI indító segítségével</translation>
+        <translation type="unfinished">A VCMI indító segítségével opcionálisan telepíthetsz további modokat most, vagy bármikor máskor</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="673"/>
         <source>Install compatible version of &quot;Horn of the Abyss&quot;, a fan-made Heroes III expansion ported by the VCMI team</source>
-        <translation>Telepítsen egy kompatibilis változatot a &quot;Horn of the Abyss&quot; nevű Heroes III kiegészítésből, amelyet a VCMI csapat portolt</translation>
+        <translation type="unfinished">A &quot;Horn of the Abyss&quot; (&quot;A Mélység Kürtje&quot; rajongók által készített Heroes III kiegészítő) VCMI csapat által portolt kompatibilis változatának telepítése</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="772"/>
         <source>Install compatible version of &quot;In The Wake of Gods&quot;, a fan-made Heroes III expansion</source>
-        <translation>Telepítsen egy kompatibilis változatot az &quot;In The Wake of Gods&quot; nevű Heroes III kiegészítésből</translation>
+        <translation type="unfinished">Az &quot;In The Wake of Gods&quot; (&quot;Az Istenek Nyomdokában&quot; rajongók által készített Heroes III kiegészítő) kompatibilis változatának telepítése</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="788"/>
         <source>Install mod that provides various interface improvements, such as a better interface for random maps and selectable actions in battles</source>
-        <translation>Telepítse a modot, amely különféle felületi fejlesztéseket biztosít, például jobb felületet véletlen térképekhez és választható akciókat csatákban</translation>
+        <translation type="unfinished">Mod telepítése, amely különféle kezelőfelület fejlesztéseket biztosít, például jobb kezelőfelületet a véletlenszerűen generált térképekhez és választható műveletekhez csatákban</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="867"/>
@@ -951,11 +951,11 @@ Before you can start playing, there are a few more steps to complete.
 Please remember that to use VCMI, you must own the original data files for Heroes® of Might and Magic® III: Complete or The Shadow of Death.
 
 Heroes® of Might and Magic® III HD is currently not supported!</source>
-        <translation>Köszönjük, hogy telepítette a VCMI-t!
+        <translation type="unfinished">Köszönjük, hogy telepítetted a VCMI-t!
 
-Mielőtt játszhatna, néhány további lépést kell elvégeznie.
+Mielőtt nekiállhatnál játszani, néhány további lépést kell elvégezned.
 
-Kérjük, ne feledje, hogy a VCMI használatához rendelkeznie kell az eredeti Heroes® of Might and Magic® III: Complete vagy The Shadow of Death adatfájlokkal.
+Kérjük, ne feledd, hogy a VCMI használatához rendelkezned kell az eredeti Heroes® of Might and Magic® III: Complete vagy The Shadow of Death adatfájlokkal.
 
 A Heroes® of Might and Magic® III HD jelenleg nem támogatott!</translation>
     </message>
@@ -968,7 +968,7 @@ A Heroes® of Might and Magic® III HD jelenleg nem támogatott!</translation>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="310"/>
         <source>You can manually copy directories Maps, Data, and Mp3 from the original game directory to the VCMI data directory that you can see on top of this page</source>
-        <translation>Manuálisan másolja a Maps, Data és Mp3 mappákat az eredeti játék könyvtárából a VCMI adatkönyvtárba, amely ennek az oldalnak a tetején látható</translation>
+        <translation type="unfinished">Manuálisan átmásolhatod a Maps, Data és Mp3 mappákat az eredeti játék könyvtárából a VCMI adatkönyvtárba, amely ennek az oldalnak a tetején látható</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="347"/>
@@ -988,14 +988,14 @@ A Heroes® of Might and Magic® III HD jelenleg nem támogatott!</translation>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="279"/>
         <source>Copy existing data</source>
-        <translation>Létező adatok másolása</translation>
+        <translation type="unfinished">Meglévő adatok másolása</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="504"/>
         <source>If you own Heroes III on gog.com, you can download a backup offline installer from gog.com. VCMI will then import Heroes III data using the offline installer. 
 Offline installer consists of two files: &quot;.exe&quot; and &quot;.bin&quot; - you must download both.</source>
-        <translation>Ha rendelkezik Heroes III játékkal a gog.com-on, letöltheti a gog.com offline biztonsági telepítőjét. A VCMI ezután importálja a Heroes III adatokat az offline telepítőből.
-Az offline telepítő két fájlból áll: &quot;.exe&quot; és &quot;.bin&quot; - mindkettőt le kell töltenie.</translation>
+        <translation type="unfinished">Ha rendelkezel a Heroes III-mal a gog.com-on, letöltheted a gog.com-ról az offline telepítőjét. A VCMI ezután importálja a Heroes III adatokat az offline telepítőből.
+Az offline telepítő két fájlból áll: &quot;.exe&quot; és &quot;.bin&quot; - mindkettőt le kell töltened.</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="557"/>
@@ -1006,12 +1006,12 @@ Az offline telepítő két fájlból áll: &quot;.exe&quot; és &quot;.bin&quot;
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="594"/>
         <source>Install VCMI Mod Preset</source>
-        <translation>VCMI Mod előre beállítás telepítése</translation>
+        <translation type="unfinished">VCMI Mod előbeállítás telepítése</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="710"/>
         <source>Horn of the Abyss</source>
-        <translation>Horn of the Abyss</translation>
+        <translation type="unfinished">Horn of the Abyss (A Mélység Kürtje)</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="643"/>
@@ -1021,7 +1021,7 @@ Az offline telepítő két fájlból áll: &quot;.exe&quot; és &quot;.bin&quot;
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.ui" line="809"/>
         <source>In The Wake of Gods</source>
-        <translation>In The Wake of Gods</translation>
+        <translation type="unfinished">In The Wake of Gods (Az Istenek Nyomdokában)</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="175"/>
@@ -1037,13 +1037,13 @@ Az offline telepítő két fájlból áll: &quot;.exe&quot; és &quot;.bin&quot;
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="322"/>
         <source>Select %1 file...</source>
         <comment>param is file extension</comment>
-        <translation>Válasszon ki egy %1 fájlt...</translation>
+        <translation type="unfinished">Válassz ki egy %1 fájlt...</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="323"/>
         <source>You have to select %1 file!</source>
         <comment>param is file extension</comment>
-        <translation>Ki kell választania egy %1 fájlt!</translation>
+        <translation type="unfinished">Egy %1 fájlt kell kiválasztanod!</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="325"/>
@@ -1073,21 +1073,21 @@ Az offline telepítő két fájlból áll: &quot;.exe&quot; és &quot;.bin&quot;
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="396"/>
         <source>You&apos;ve provided a GOG Galaxy installer! This file doesn&apos;t contain the game. Please download the offline backup game installer!</source>
-        <translation>GOG Galaxy telepítőt adott meg! Ez a fájl nem tartalmazza a játékot. Kérjük, töltse le az offline biztonsági telepítőt!</translation>
+        <translation type="unfinished">GOG Galaxy telepítőt adtál meg! Ez a fájl nem tartalmazza a játékot. Kérjük, töltsd le az offline biztonsági telepítőt!</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="490"/>
         <source>Heroes III: HD Edition files are not supported by VCMI.
 Please select the directory with Heroes III: Complete Edition or Heroes III: Shadow of Death.</source>
-        <translation>A Heroes III: HD Edition fájlokat a VCMI nem támogatja.
-Kérjük, válassza ki a Heroes III: Complete Edition vagy Heroes III: Shadow of Death verzió könyvtárát.</translation>
+        <translation type="unfinished">A Heroes III: HD Edition fájlokat a VCMI nem támogatja.
+Kérjük, válaszd ki a Heroes III: Complete Edition vagy Heroes III: Shadow of Death verzió könyvtárát.</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="495"/>
         <source>Unknown or unsupported Heroes III version found.
 Please select the directory with Heroes III: Complete Edition or Heroes III: Shadow of Death.</source>
-        <translation>Ismeretlen vagy nem támogatott Heroes III verzió található.
-Kérjük, válassza ki a Heroes III: Complete Edition vagy Heroes III: Shadow of Death verzió könyvtárát.</translation>
+        <translation type="unfinished">Ismeretlen vagy nem támogatott Heroes III verzió található.
+Kérjük, válaszd ki a Heroes III: Complete Edition vagy Heroes III: Shadow of Death verzió könyvtárát.</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="348"/>
@@ -1118,8 +1118,8 @@ Kérjük, válassza ki a Heroes III: Complete Edition vagy Heroes III: Shadow of
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="466"/>
         <source>Failed to detect valid Heroes III data in chosen directory.
 Please select the directory with installed Heroes III data.</source>
-        <translation>Nem sikerült érvényes Heroes III adatokat találni a kiválasztott könyvtárban.
-Kérjük, válassza ki az installált Heroes III adatokat tartalmazó könyvtárat.</translation>
+        <translation type="unfinished">Nem sikerült érvényes Heroes III adatokat találni a kiválasztott könyvtárban.
+Kérjük, válaszd ki a telepített Heroes III adatokat tartalmazó könyvtárat.</translation>
     </message>
     <message>
         <location filename="../firstLaunch/firstlaunch_moc.cpp" line="469"/>
@@ -1144,8 +1144,8 @@ Kérjük, válassza ki az installált Heroes III adatokat tartalmazó könyvtár
         <location filename="../innoextract.cpp" line="42"/>
         <source>Stream error while extracting files!
 error reason: </source>
-        <translation>Áramlási hiba történt a fájlok kicsomagolása közben!
-hiba oka:</translation>
+        <translation type="unfinished">Stream hiba történt a fájlok kicsomagolása közben!
+hiba oka: </translation>
     </message>
     <message>
         <location filename="../innoextract.cpp" line="55"/>
@@ -1155,7 +1155,7 @@ hiba oka:</translation>
     <message>
         <location filename="../innoextract.cpp" line="58"/>
         <source>VCMI was compiled without innoextract support, which is needed to extract exe files!</source>
-        <translation>A VCMI Innoextract támogatás nélkül lett lefordítva, amely szükséges az exe fájlok kicsomagolásához!</translation>
+        <translation type="unfinished">A VCMI Innoextract támogatás nélkül lett gépi kódra fordítva, amely szükséges az exe fájlok kicsomagolásához!</translation>
     </message>
     <message numerus="yes">
         <location filename="../innoextract.cpp" line="134"/>
@@ -1164,9 +1164,6 @@ Exe (%n bytes):
 %1</source>
         <comment>param is hash</comment>
         <translation>
-            <numerusform>A megadott fájlok SHA1 hash értéke:
-Exe (%n bájt):
-%1</numerusform>
             <numerusform>A megadott fájlok SHA1 hash értéke:
 Exe (%n bájt):
 %1</numerusform>
@@ -1179,9 +1176,6 @@ Bin (%n bytes):
 %1</source>
         <comment>param is hash</comment>
         <translation>
-            <numerusform>
-Bin (%n bájt):
-%1</numerusform>
             <numerusform>
 Bin (%n bájt):
 %1</numerusform>
@@ -1223,7 +1217,7 @@ Bin (%n bájt):
 %1
 
 %2</source>
-        <translation>Csak egy fájl ismert! Lehet, hogy a fájlok sérültek? Kérjük, töltse le újra.
+        <translation type="unfinished">Csak egy fájl ismert! Lehet, hogy a fájlok sérültek? Kérjük, töltsd le újra.
 %1
 
 %2</translation>
@@ -1233,7 +1227,7 @@ Bin (%n bájt):
         <source>Unknown files! Maybe files are corrupted? Please download again.
 
 %1</source>
-        <translation>Ismeretlen fájlok! Lehet, hogy a fájlok sérültek? Kérjük, töltse le újra.
+        <translation type="unfinished">Ismeretlen fájlok! Lehet, hogy a fájlok sérültek? Kérjük, töltsd le újra.
 
 %1</translation>
     </message>
@@ -1361,7 +1355,7 @@ Bin (%n bájt):
     <message>
         <location filename="../mainwindow_moc.cpp" line="46"/>
         <source>Error starting executable</source>
-        <translation>Hiba az indítható fájl indításakor</translation>
+        <translation type="unfinished">Hiba a futtatható fájl indításakor</translation>
     </message>
     <message>
         <location filename="../mainwindow_moc.cpp" line="287"/>
@@ -1418,12 +1412,12 @@ Bin (%n bájt):
         <location filename="../modManager/modstatecontroller.cpp" line="157"/>
         <location filename="../modManager/modstatecontroller.cpp" line="183"/>
         <source>Mod must be installed first</source>
-        <translation>Először telepítse a modot</translation>
+        <translation type="unfinished">Először telepíteni kell a modot</translation>
     </message>
     <message>
         <location filename="../modManager/modstatecontroller.cpp" line="161"/>
         <source>Mod is not compatible, please update VCMI and check the latest mod revisions</source>
-        <translation>A mod nem kompatibilis, kérjük, frissítse a VCMI-t, és ellenőrizze a legfrissebb mod verziókat</translation>
+        <translation type="unfinished">A mod nem kompatibilis, kérjük, frissítsd a VCMI-t, és ellenőrizd a legfrissebb mod verziókat</translation>
     </message>
     <message>
         <location filename="../modManager/modstatecontroller.cpp" line="164"/>
@@ -1433,7 +1427,7 @@ Bin (%n bájt):
     <message>
         <location filename="../modManager/modstatecontroller.cpp" line="169"/>
         <source>Required mod %1 is missing</source>
-        <translation>A szükséges mod %1 hiányzik</translation>
+        <translation type="unfinished">A szükséges %1 mod hiányzik</translation>
     </message>
     <message>
         <location filename="../modManager/modstatecontroller.cpp" line="180"/>
@@ -1448,12 +1442,12 @@ Bin (%n bájt):
     <message>
         <location filename="../modManager/modstatecontroller.cpp" line="198"/>
         <source>Mod archive is invalid or corrupted</source>
-        <translation>A mod archívuma érvénytelen vagy sérült</translation>
+        <translation type="unfinished">A mod archívum érvénytelen vagy sérült</translation>
     </message>
     <message>
         <location filename="../modManager/modstatecontroller.cpp" line="224"/>
         <source>Failed to extract mod data</source>
-        <translation>Nem sikerült kibontani a mod adatokat</translation>
+        <translation type="unfinished">Nem sikerült kicsomagolni a mod adatokat</translation>
     </message>
     <message>
         <location filename="../modManager/modstatecontroller.cpp" line="248"/>
@@ -1464,7 +1458,7 @@ Bin (%n bájt):
         <location filename="../modManager/modstatecontroller.cpp" line="252"/>
         <source>Mod is located in a protected directory, please remove it manually:
 </source>
-        <translation>A mod védett könyvtárban található, kérjük, távolítsa el manuálisan:
+        <translation type="unfinished">A mod védett könyvtárban található, kérjük, távolítsd el manuálisan:
 </translation>
     </message>
 </context>
@@ -1534,7 +1528,7 @@ Bin (%n bájt):
     <message>
         <location filename="../modManager/modstateitemmodel_moc.cpp" line="48"/>
         <source>Interface</source>
-        <translation>Felület</translation>
+        <translation type="unfinished">Kezelőfelület</translation>
     </message>
     <message>
         <location filename="../modManager/modstateitemmodel_moc.cpp" line="49"/>
@@ -1564,7 +1558,7 @@ Bin (%n bájt):
     <message>
         <location filename="../modManager/modstateitemmodel_moc.cpp" line="54"/>
         <source>Artifacts</source>
-        <translation>Tárgyak</translation>
+        <translation type="unfinished">Varázstárgyak</translation>
     </message>
     <message>
         <location filename="../modManager/modstateitemmodel_moc.cpp" line="55"/>
@@ -1577,7 +1571,7 @@ Bin (%n bájt):
     <message>
         <location filename="../main.cpp" line="122"/>
         <source>Error starting executable</source>
-        <translation>Hiba az indítható fájl indításakor</translation>
+        <translation type="unfinished">Hiba a futtatható fájl indításakor</translation>
     </message>
     <message>
         <location filename="../main.cpp" line="123"/>
@@ -1617,7 +1611,7 @@ Indok: %2</translation>
     <message>
         <location filename="../startGame/StartGameTab.ui" line="119"/>
         <source>Unsupported or corrupted game data detected!</source>
-        <translation>Nem támogatott vagy sérült játékmadatok észlelve!</translation>
+        <translation type="unfinished">Nem támogatott vagy sérült játékadatok észlelve!</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.ui" line="141"/>
@@ -1645,7 +1639,7 @@ Indok: %2</translation>
     <message>
         <location filename="../startGame/StartGameTab.ui" line="258"/>
         <source>Armaggedon&apos;s Blade campaigns are missing!</source>
-        <translation>Az Armaggedon&apos;s Blade kampányok hiányoznak!</translation>
+        <translation type="unfinished">Az Armaggedon&apos;s Blade (A Végítélet Kardja) hadjáratok hiányoznak!</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.ui" line="293"/>
@@ -1680,12 +1674,12 @@ Indok: %2</translation>
     <message>
         <location filename="../startGame/StartGameTab.ui" line="657"/>
         <source>You are using the latest version</source>
-        <translation>A legújabb verziót használja</translation>
+        <translation type="unfinished">A legújabb verziót használod</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.ui" line="37"/>
         <source>Game Data Files</source>
-        <translation>Játékmadatok fájlok</translation>
+        <translation type="unfinished">Játék adatfájlok</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.ui" line="55"/>
@@ -1712,7 +1706,6 @@ Indok: %2</translation>
         <source>Update %n mods</source>
         <translation>
             <numerusform>%n mod frissítése</numerusform>
-            <numerusform>%n mod frissítése</numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -1722,14 +1715,12 @@ Indok: %2</translation>
         <translation>
             <numerusform>Heroes Chronicles:
 %n/%1 telepítve</numerusform>
-            <numerusform>Heroes Chronicles:
-%n/%1 telepítve</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="205"/>
         <source>Update to %1 available</source>
-        <translation>Frissítés elérhető: %1</translation>
+        <translation type="unfinished">%1 frissítése elérhető</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="241"/>
@@ -1744,7 +1735,7 @@ Indok: %2</translation>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="243"/>
         <source>Campaigns</source>
-        <translation>Kampányok</translation>
+        <translation type="unfinished">Hadjáratok</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="244"/>
@@ -1769,7 +1760,7 @@ Indok: %2</translation>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="251"/>
         <source>Select files (configs, mods, maps, campaigns, gog files) to install...</source>
-        <translation>Válassza ki a telepítendő fájlokat (konfigurációk, modok, térképek, kampányok, gog fájlok)...</translation>
+        <translation type="unfinished">Válaszd ki a telepítendő fájlokat (konfigurációk, modok, térképek, hadjáratok, gog fájlok)...</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="294"/>
@@ -1781,86 +1772,86 @@ Indok: %2</translation>
  - VCMI mods in zip format (.zip)
  - VCMI configuration files (.json)
 </source>
-        <translation>Ez az opció lehetővé teszi további adatfájlok importálását a VCMI telepítésébe. Jelenleg az alábbi lehetőségek támogatottak:
+        <translation type="unfinished">Ez az opció lehetővé teszi további adatfájlok importálását a VCMI telepítésébe. Jelenleg az alábbi lehetőségek támogatottak:
 
 - Heroes III Térképek (.h3m vagy .vmap).
-- Heroes III Kampányok (.h3c vagy .vcmp).
+- Heroes III Hadjáratok (.h3c vagy .vcmp).
 - Heroes III Chronicles offline biztonsági telepítővel a GOG.com-ról (.exe).
-- VCMI modok zip formátumban (.zip).
-- VCMI konfigurációs fájlok (.json).
+- VCMI modok zip formátumban (.zip)
+- VCMI konfigurációs fájlok (.json)
 </translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="309"/>
         <source>Your Heroes III version uses different language. VCMI provides translations of the game into various languages that you can use. Use this option to automatically install such translation to your language.</source>
-        <translation>A Heroes III verziója más nyelvet használ. A VCMI számos nyelvre elérhető fordításokat biztosít. Használja ezt az opciót, hogy automatikusan telepítse a fordítást az Ön nyelvére.</translation>
+        <translation type="unfinished">A Heroes III verziód más nyelvet használ. A VCMI számos nyelvre biztosít fordítást. Használd ezt az opciót, hogy automatikusan telepíts egy ilyen fordítást a nyelvedre.</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="319"/>
         <source>Translation of Heroes III into your language is installed, but has been turned off. Use this option to enable it.</source>
-        <translation>A Heroes III fordítása telepítve van az Ön nyelvére, de le van tiltva. Használja ezt az opciót az engedélyezéshez.</translation>
+        <translation type="unfinished">A Heroes III te nyelvedre fordítása telepítve van, de le van tiltva. Használd ezt az opciót az engedélyezéshez.</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="329"/>
         <source>A new version of some of the mods that you have installed is now available in mod repository. Use this option to automatically update all your mods to latest version.
 
 WARNING: In some cases, updated versions of mods may not be compatible with your existing saves. You may want to postpone mod update until you finish any of your ongoing games.</source>
-        <translation>Az Ön által telepített modok egy része új verzióval rendelkezik a mod repository-ban. Használja ezt az opciót, hogy automatikusan frissítse az összes modját a legújabb verzióra.
+        <translation type="unfinished">Az általad telepített modok egy része új verzióval rendelkezik a mod adatbázisban. Használd ezt az opciót, hogy automatikusan frissítsd az összes mododat a legújabb verzióra.
 
-FIGYELEM: Bizonyos esetekben a modok frissített verziói nem kompatibilisek a meglévő mentésekkel. Érdemes lehet a mod frissítését elhalasztani, amíg be nem fejezi a folyamatban lévő játékait.</translation>
+FIGYELEM: Bizonyos esetekben a modok frissített verziói nem kompatibilisek a meglévő mentésekkel. Érdemes lehet a mod frissítését elhalasztani, amíg be nem fejezed a folyamatban lévő játékaidat.</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="341"/>
         <source>If you own Heroes Chronicles on gog.com, you can use offline backup installers provided by gog to import Heroes Chronicles data into VCMI as custom campaigns.
 To import Heroes Chronicles, download offline backup installer of each chronicle that you wish to install, select &apos;Import files&apos; option and select downloaded file. This will generate and install mod for VCMI that contains imported chronicles</source>
-        <translation>Ha rendelkezik Heroes Chronicles játékkal a gog.com-on, használhatja a gog által biztosított offline biztonsági telepítőket a Heroes Chronicles adatainak importálására a VCMI-be, mint egyéni kampányokat.
-A Heroes Chronicles importálásához töltse le a kívánt kronológia offline biztonsági telepítőjét, válassza az 'Importálás fájlokból' opciót, majd válassza ki a letöltött fájlt. Ez létrehoz és telepít egy modot a VCMI számára, amely tartalmazza az importált kronológiákat.</translation>
+        <translation type="unfinished">Ha rendelkezel Heroes Chronicles játékkal a gog.com-on, használhatod a gog által biztosított offline biztonsági telepítőket a Heroes Chronicles adatainak egyéni hadjáratokként importálására a VCMI-be.
+A Heroes Chronicles importálásához töltsd le a kívánt krónika offline biztonsági telepítőjét, válaszd az &apos;Importálás fájlokból&apos; opciót, majd válaszd ki a letöltött fájlt. Ez létrehoz és telepít egy modot a VCMI számára, amely tartalmazza az importált krónikákat</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="354"/>
         <source>VCMI has detected that Heroes III music files are missing from your installation. VCMI will run, but in-game music will not be available.
 
 To resolve this problem, please copy missing mp3 files from Heroes III to VCMI data files directory manually or reinstall VCMI and re-import Heroes III data files</source>
-        <translation>A VCMI észlelte, hogy a Heroes III zenei fájlok hiányoznak a telepítésből. A VCMI működni fog, de a játékon belüli zene nem lesz elérhető.
+        <translation type="unfinished">A VCMI észlelte, hogy a Heroes III zenei fájlok hiányoznak a telepítésből. A VCMI működni fog, de a játékon belüli zene nem lesz elérhető.
 
-A probléma megoldásához kérjük, manuálisan másolja a hiányzó mp3 fájlokat a Heroes III-ból a VCMI adatfájlok könyvtárába, vagy telepítse újra a VCMI-t, és importálja újra a Heroes III adatfájlokat.</translation>
+A probléma megoldásához kérjük, manuálisan másold a hiányzó mp3 fájlokat a Heroes III-ból a VCMI adatfájlok könyvtárába, vagy telepítsd újra a VCMI-t, és importáld újra a Heroes III adatfájlokat</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="365"/>
         <source>VCMI has detected that Heroes III video files are missing from your installation. VCMI will run, but in-game cutscenes will not be available.
 
 To resolve this problem, please copy VIDEO.VID file from Heroes III to VCMI data files directory manually or reinstall VCMI and re-import Heroes III data files</source>
-        <translation>A VCMI észlelte, hogy a Heroes III videófájlok hiányoznak a telepítésből. A VCMI működni fog, de a játékon belüli átvezető jelenetek nem lesznek elérhetőek.
+        <translation type="unfinished">A VCMI észlelte, hogy a Heroes III videófájlok hiányoznak a telepítésből. A VCMI működni fog, de a játékon belüli átvezető jelenetek nem lesznek elérhetőek.
 
-A probléma megoldásához kérjük, manuálisan másolja a VIDEO.VID fájlt a Heroes III-ból a VCMI adatfájlok könyvtárába, vagy telepítse újra a VCMI-t, és importálja újra a Heroes III adatfájlokat.</translation>
+A probléma megoldásához kérjük, manuálisan másold a VIDEO.VID fájlt a Heroes III-ból a VCMI adatfájlok könyvtárába, vagy telepítsd újra a VCMI-t, és importáld újra a Heroes III adatfájlokat</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="376"/>
         <source>VCMI has detected that some of Heroes III data files are missing from your installation. You may attempt to run VCMI, but game may not work as expected or crash.
 
 To resolve this problem, please reinstall game and reimport data files using supported version of Heroes III. VCMI requires Heroes III: Shadow of Death or Complete Edition to run, which you can get (for example) from gog.com</source>
-        <translation>A VCMI észlelte, hogy néhány Heroes III adatfájl hiányzik a telepítésből. Megpróbálhatja futtatni a VCMI-t, de a játék nem biztos, hogy a várakozásoknak megfelelően működik, vagy összeomlik.
+        <translation type="unfinished">A VCMI észlelte, hogy néhány Heroes III adatfájl hiányzik a telepítésből. Megpróbálhatod futtatni a VCMI-t, de a játék nem biztos, hogy a várakozásoknak megfelelően működik, vagy összeomlik.
 
-A probléma megoldásához kérjük, telepítse újra a játékot, és importálja újra az adatfájlokat egy támogatott Heroes III verzióból. A VCMI a Heroes III: Shadow of Death vagy Complete Edition verziót igényli a működéshez, amelyet például a gog.com-on szerezhet be.</translation>
+A probléma megoldásához kérjük, telepítsd újra a játékot, és importáld újra az adatfájlokat egy támogatott Heroes III verzióból. A VCMI a Heroes III: Shadow of Death vagy Complete Edition verziót igényli a működéshez, amelyet például a gog.com-on szerezhetsz be</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="387"/>
         <source>VCMI has detected that some of Heroes III: Armageddon&apos;s Blade data files are missing from your installation. VCMI will work, but Armageddon&apos;s Blade campaigns will not be available.
 
 To resolve this problem, please copy missing data files from Heroes III to VCMI data files directory manually or reinstall VCMI and re-import Heroes III data files</source>
-        <translation>A VCMI észlelte, hogy néhány Heroes III: Armaggedon's Blade adatfájl hiányzik a telepítésből. A VCMI működni fog, de az Armaggedon's Blade kampányok nem lesznek elérhetőek.
+        <translation type="unfinished">A VCMI észlelte, hogy néhány Heroes III: Armaggedon&apos;s Blade adatfájl hiányzik a telepítésből. A VCMI működni fog, de az Armaggedon&apos;s Blade hadjáratok nem lesznek elérhetőek.
 
-A probléma megoldásához kérjük, manuálisan másolja a hiányzó adatfájlokat a Heroes III-ból a VCMI adatfájlok könyvtárába, vagy telepítse újra a VCMI-t, és importálja újra a Heroes III adatfájlokat.</translation>
+A probléma megoldásához kérjük, manuálisan másold a hiányzó adatfájlokat a Heroes III-ból a VCMI adatfájlok könyvtárába, vagy telepítsd újra a VCMI-t, és importáld újra a Heroes III adatfájlokat</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="423"/>
         <source>Enter preset name:</source>
-        <translation>Adja meg az előbeállítás nevét:</translation>
+        <translation type="unfinished">Add meg az előbeállítás nevét:</translation>
     </message>
     <message>
         <location filename="../startGame/StartGameTab.cpp" line="466"/>
         <source>Rename preset &apos;%1&apos; to:</source>
-        <translation>Az '%1' előbeállítás átnevezése erre:</translation>
+        <translation type="unfinished">&apos;%1&apos; előbeállítás átnevezése erre:</translation>
     </message>
 </context>
 <context>
@@ -1868,7 +1859,7 @@ A probléma megoldásához kérjük, manuálisan másolja a hiányzó adatfájlo
     <message>
         <location filename="../updatedialog_moc.ui" line="71"/>
         <source>You have the latest version</source>
-        <translation>Ön a legújabb verziót használja</translation>
+        <translation type="unfinished">A legújabb verziót használod</translation>
     </message>
     <message>
         <location filename="../updatedialog_moc.ui" line="94"/>
